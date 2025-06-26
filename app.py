@@ -5,7 +5,7 @@ import pandas as pd
 import psycopg2
 import requests
 import streamlit as st
-import plotly.express as px
+import plotly.express as px  
 
 st.set_page_config(page_title='PhonePe Pulse', page_icon=':bar_chart:', layout="wide")
 st.markdown(f'<h1 style="text-align: center;">PhonePe Pulse Data Visualization \
