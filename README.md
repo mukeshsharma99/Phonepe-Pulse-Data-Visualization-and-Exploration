@@ -5,7 +5,7 @@ The Indian digital payments story has truly captured the world’s imagination. 
 ## Announcements
 
 :star2: Data for Q3(_July, August, September_) and Q4(_Octobar, November, December_) of 2024 has been added and is available for consumption. 
- 
+  
 ## Table of Contents  
 
 <!-- TOC -->
